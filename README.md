@@ -1,6 +1,7 @@
-#个人简历
+##个人简历
+>*Some of the stories are not done yet.*
 
-####谁的
-*立力的简历*
+| Name         |age         |Occupation |
+| ------------- |:-------------:|:-----:|
+| YuanLili            | 20            | university student  |
 
-** 这里is
